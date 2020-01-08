@@ -137,10 +137,10 @@ Proxy:
 # VMess
 - name: "4"
   type: vmess
-  server: v2ray.cool
+  server: 173.82.119.188
   port: 443
-  uuid: a3482e88-686a-4a58-8126-99c9df64b7bf
-  alterId: 64
+  uuid: d555ef8c-5837-479a-9937-32cadff11f19
+  alterId: 233
   cipher: auto
   # udp: true
   # tls: true
